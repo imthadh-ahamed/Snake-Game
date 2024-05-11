@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="score">score</string>
+    <string name="gameover">Game Over ! Play Again</string>
+    <string name="newgame">New Game</string>
+    <string name="resumegame">Resume Game</string>
+    <string name="up">UP</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="down">DOWN</string>
+    <string name="pause">PAUSE</string>
+
+</resources>
